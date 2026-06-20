@@ -1,0 +1,53 @@
+Start
+  │
+  ▼
+Initialize Stock Dictionary
+  │
+  ▼
+Display Available Stocks
+  │
+  ▼
+Input Number of Stocks
+  │
+  ▼
+Set Total Investment = 0
+  │
+  ▼
+Input Stock Name
+  │
+  ▼
+Stock Found?
+ ┌────┴────┐
+Yes       No
+ │          │
+ ▼          ▼
+Input     Display
+Quantity  "Stock Not Found"
+ │          │
+ ▼          │
+Calculate   │
+Investment  │
+ │          │
+ ▼          │
+Add To Total│
+ │          │
+ └────┬─────┘
+      ▼
+More Stocks Left?
+ ┌────┴────┐
+Yes       No
+ │          │
+ └──────────┘
+      ▼
+Display Total Portfolio Value
+      │
+      ▼
+Save To File?
+ ┌────┴────┐
+Yes       No
+ │          │
+ ▼          ▼
+Save File   End
+ │
+ ▼
+End
